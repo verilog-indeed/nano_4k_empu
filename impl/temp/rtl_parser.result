@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "D:/Nano4KProjects/nano_4k_empu/src/empu_top.v",
+  "InstLine" : 1,
+  "InstName" : "empu_top",
+  "ModuleFile" : "D:/Nano4KProjects/nano_4k_empu/src/empu_top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "empu_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Nano4KProjects/nano_4k_empu/src/empu_top.v",
+    "InstLine" : 9,
+    "InstName" : "cortexM3",
+    "ModuleFile" : "D:/Nano4KProjects/nano_4k_empu/src/gowin_empu/gowin_empu.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Gowin_EMPU_Top"
+   }
+  ]
+ }
+]

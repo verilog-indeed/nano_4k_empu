@@ -1,0 +1,10 @@
+-d D:\Nano4KProjects\nano_4k_empu\impl\gwsynthesis\nano_4k_empu.vg
+-p GW1NSR-4C-QFN48P-6
+-pn GW1NSR-LV4CQN48PC6/I5
+-cst D:\Nano4KProjects\nano_4k_empu\src\nano_4k_empu.cst
+-cfg D:\Nano4KProjects\nano_4k_empu\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error

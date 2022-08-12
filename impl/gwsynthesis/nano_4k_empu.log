@@ -1,0 +1,35 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v'
+Analyzing Verilog file 'D:\Nano4KProjects\nano_4k_empu\src\empu_top.v'
+Compiling module 'empu_top'("D:\Nano4KProjects\nano_4k_empu\src\empu_top.v":1)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+Compiling module '**'("D:\Nano4KProjects\nano_4k_empu\src\gowin_empu\gowin_empu.v":0)
+WARN  (EX3670) : Actual bit length 8 differs from formal bit length 16 for port 'gpio'("D:\Nano4KProjects\nano_4k_empu\src\empu_top.v":11)
+NOTE  (EX0101) : Current top module is "empu_top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\Nano4KProjects\nano_4k_empu\impl\gwsynthesis\nano_4k_empu.vg" completed
+[100%] Generate report file "D:\Nano4KProjects\nano_4k_empu\impl\gwsynthesis\nano_4k_empu_syn.rpt.html" completed
+GowinSynthesis finish
